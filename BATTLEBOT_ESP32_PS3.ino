@@ -23,8 +23,8 @@ int motorWeaponValue_1;
 
 int ADC_Max = 4096;
 
-int forwordModifier 1;                                  
-int ternModifier 1;
+float forwardModifier = 1;                                // This modifies Forward movement from a range 0-1 
+float turnModifier = 1;                                   // This modifies Turn movement from a range 0-1 
 
 void setup() {
   // Allow allocation of all timers
@@ -76,8 +76,8 @@ void loop() {
   if (Ps3.isConnected()) {
 
     // INPUT MIXING
-    double x = Ps3.data.analog.stick.lx;
-    double y = Ps3.data.analog.stick.ly;
+    double x = Ps3.data.analog.stick.lx * turnModifier;
+    double y = Ps3.data.analog.stick.ly * forwardModifier;
 
     double r = sqrt(sq(y) + sq(x));               
     double t = atan(x/y);
