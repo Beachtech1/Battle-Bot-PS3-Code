@@ -13,7 +13,7 @@
 
 # Getting Started
 
-Detal guid  You can [download](https://github.com/BeachtechRobotics/Battle-Bot-PS3-Code/blob/main/Programming%20ESP32%20Guide.pdf)
+PDF detailed guide at this [download](https://github.com/BeachtechRobotics/Battle-Bot-PS3-Code/blob/main/Programming%20ESP32%20Guide.pdf) link
 
 ## Installing the ESP32 board
 
