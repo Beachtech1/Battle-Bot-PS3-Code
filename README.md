@@ -7,14 +7,10 @@
 <h4 align="center">Battle Bot Controller for Based on an ESP-32.</h4>
 
 <p align="center">
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#getting-started-with-arduino">Getting Started</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
 </p>
-
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 # Getting Started with Arduino
 
@@ -53,12 +49,9 @@ You can [download](https://sixaxispairtool.en.lo4d.com/download/mirror-hs1) the 
 
 ## Credits
 
-This software uses the following open source packages:
+I've had tremendous help developing this this guide and code by reading these sources:
 
-- [jvpernis -ESP-32 PS3 libary-](https://github.com/jvpernis/esp32-ps3)
+- [jvpernis ESP-32 PS3 libary](https://github.com/jvpernis/esp32-ps3)
 - [aed3 ESP-32 PS4 libary](https://github.com/openobjects/PS4-esp32)
 - [randomnerdtutorials ESP32 Tutorial](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
 
-## License
-
-MIT
