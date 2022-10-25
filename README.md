@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/BeachtechRobotics/Battle-Bot-PS3-Code/main/BEACHTECH%20logo.png" alt="Markdownify" width="800"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/BeachtechRobotics/assets/ade7abf526c82bdbb3b55d8f304c73b7938eeca9/BEACHTECH%20logo.svg" alt="Beachtech" width="900"></a>
 </h1>
 
 <h4  Battle Bot Controller for Based on an ESP-32.</h4>
@@ -9,7 +9,7 @@
 
 
 
-<a href=""><img src="https://raw.githubusercontent.com/BeachtechRobotics/Battle-Bot-PS3-Code/85f9a0fc75de0117010c7f4378fe868461111a3c/Madewitharduino.svg" alt="Markdownify" width="300"></a>
+<a href=""><img src="https://raw.githubusercontent.com/BeachtechRobotics/assets/ade7abf526c82bdbb3b55d8f304c73b7938eeca9/Madewitharduino.svg" alt="Markdownify" width="300"></a>
 
 # Getting Started
 
@@ -52,7 +52,7 @@ void setup()
 > **Note**
 > You can use [Sixaxis Pair Tool](https://sixaxispairtool.en.lo4d.com/download/mirror-hs1)  software is uesd to look up and update the MAC address of the controller.
 
-
+    
 ## Download
 
 You can [download](https://github.com/BeachtechRobotics/Battle-Bot-PS3-Code/blob/main/BATTLEBOT_ESP32_PS3.ino)  arduino code at this link
