@@ -24,9 +24,8 @@ Open `File -> Preferences`, and paste the following URL in the `Additional Board
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 ```
 Open the Boards Manager with `Tools -> Board: "xxx" -> Boards Manager`, 
-look for `esp32` 
-(probably the last one in the list), and click `Install`.Finally, select the ESP32 board you have with `Tools -> Board: "xxx"` under the section ESP32 Arduino 
-(I always have ESP32 Dev Module selected).
+Search for `ESP32` and press install button for the `ESP32 by Espressif Systems`.Finally, select the ESP32 board you have with `Tools -> Board: DOIT ESP32 DEVKIT V1` under the section ESP32 Arduino 
+
 
 ## Installing the librares
 
