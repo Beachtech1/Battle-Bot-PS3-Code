@@ -9,7 +9,7 @@
 
 
 
-<a href=""><img src="https://raw.githubusercontent.com/BeachtechRobotics/assets/ade7abf526c82bdbb3b55d8f304c73b7938eeca9/Madewitharduino.svg" alt="Markdownify" width="300"></a>
+<a href=""><img src="https://raw.githubusercontent.com/BeachtechRobotics/assets/362690af1dc5d16088b6086bf795fb1e9b65fbf7/Madewitharduino.svg" alt="Markdownify" width="300"></a>
 
 # Getting Started
 
